@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/L03_LinearSearch/BinarySearch/BinarySearch2.iml" filepath="$PROJECT_DIR$/L03_LinearSearch/BinarySearch/BinarySearch2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java Dsa.iml" filepath="$PROJECT_DIR$/.idea/Java Dsa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L00_Basics/L00_BAsics.iml" filepath="$PROJECT_DIR$/L00_Basics/L00_BAsics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L01_Method/L01_Method.iml" filepath="$PROJECT_DIR$/L01_Method/L01_Method.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L02_Array/L02_Array.iml" filepath="$PROJECT_DIR$/L02_Array/L02_Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L03_LinearSearch/L03_LinearSearch.iml" filepath="$PROJECT_DIR$/L03_LinearSearch/L03_LinearSearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L05_BinarySearch/L05_BinarySearch.iml" filepath="$PROJECT_DIR$/L05_BinarySearch/L05_BinarySearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L06_BinarySearchIn2D/L06_BinarySearchIn2D.iml" filepath="$PROJECT_DIR$/L06_BinarySearchIn2D/L06_BinarySearchIn2D.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L07_SortingAlgorithms/L07_SortingAlgorithms.iml" filepath="$PROJECT_DIR$/L07_SortingAlgorithms/L07_SortingAlgorithms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L08_Strings/L08_Strings.iml" filepath="$PROJECT_DIR$/L08_Strings/L08_Strings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L09_Pattern/L09_Pattern.iml" filepath="$PROJECT_DIR$/L09_Pattern/L09_Pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L10_Recursion/L10_Recursion.iml" filepath="$PROJECT_DIR$/L10_Recursion/L10_Recursion.iml" />
+    </modules>
+  </component>
+</project>
