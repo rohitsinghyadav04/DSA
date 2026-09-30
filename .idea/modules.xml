@@ -13,7 +13,16 @@
       <module fileurl="file://$PROJECT_DIR$/L07_SortingAlgorithms/L07_SortingAlgorithms.iml" filepath="$PROJECT_DIR$/L07_SortingAlgorithms/L07_SortingAlgorithms.iml" />
       <module fileurl="file://$PROJECT_DIR$/L08_Strings/L08_Strings.iml" filepath="$PROJECT_DIR$/L08_Strings/L08_Strings.iml" />
       <module fileurl="file://$PROJECT_DIR$/L09_Pattern/L09_Pattern.iml" filepath="$PROJECT_DIR$/L09_Pattern/L09_Pattern.iml" />
-      <module fileurl="file://$PROJECT_DIR$/L10_Recursion/L10_Recursion.iml" filepath="$PROJECT_DIR$/L10_Recursion/L10_Recursion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L10_Recursion1/L10_Recursion1.iml" filepath="$PROJECT_DIR$/L10_Recursion1/L10_Recursion1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L11_MathsForDSA/L11_MathsForDSA.iml" filepath="$PROJECT_DIR$/L11_MathsForDSA/L11_MathsForDSA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L12_Recursion2/L12_Recursion2.iml" filepath="$PROJECT_DIR$/L12_Recursion2/L12_Recursion2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L13_Recursion3/L13_Recursion3.iml" filepath="$PROJECT_DIR$/L13_Recursion3/L13_Recursion3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L14_Recursion4_Pattern/L14_Recursion4_Pattern.iml" filepath="$PROJECT_DIR$/L14_Recursion4_Pattern/L14_Recursion4_Pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L15_SortingByRecursion/L15_SortingByRecursion.iml" filepath="$PROJECT_DIR$/L15_SortingByRecursion/L15_SortingByRecursion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L16_Recursion5_Strings/L16_Recursion5_Strings.iml" filepath="$PROJECT_DIR$/L16_Recursion5_Strings/L16_Recursion5_Strings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L17_Recursion6_Permutation/L17_Recursion6_Permutation.iml" filepath="$PROJECT_DIR$/L17_Recursion6_Permutation/L17_Recursion6_Permutation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L18_Recursion7_Backtracking/L18_Recursion7_Backtracking.iml" filepath="$PROJECT_DIR$/L18_Recursion7_Backtracking/L18_Recursion7_Backtracking.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L19_OOPS/L19_OOPS.iml" filepath="$PROJECT_DIR$/L19_OOPS/L19_OOPS.iml" />
     </modules>
   </component>
 </project>
