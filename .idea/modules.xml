@@ -23,6 +23,7 @@
       <module fileurl="file://$PROJECT_DIR$/L17_Recursion6_Permutation/L17_Recursion6_Permutation.iml" filepath="$PROJECT_DIR$/L17_Recursion6_Permutation/L17_Recursion6_Permutation.iml" />
       <module fileurl="file://$PROJECT_DIR$/L18_Recursion7_Backtracking/L18_Recursion7_Backtracking.iml" filepath="$PROJECT_DIR$/L18_Recursion7_Backtracking/L18_Recursion7_Backtracking.iml" />
       <module fileurl="file://$PROJECT_DIR$/L19_OOPS/L19_OOPS.iml" filepath="$PROJECT_DIR$/L19_OOPS/L19_OOPS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L20_LinkedList.iml" filepath="$PROJECT_DIR$/L20_LinkedList.iml" />
     </modules>
   </component>
 </project>
